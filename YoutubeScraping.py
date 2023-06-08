@@ -6,7 +6,7 @@ from pytube import YouTube
 dock = tk.Tk()
 dock.geometry('500x300')
 dock.resizable(0,0)
-dock.title("TechTips By Lary Youtube Video Downloader")
+dock.title("Ace TouTube")
 
 tk.Label(dock, text ="Youtube Video Downloader", font ="arial 20 bold").pack()
 
