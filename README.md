@@ -12,7 +12,7 @@ The YouTube video downloader script allows you to download YouTube videos direct
    pip install pytube
    ```
 
-2. Run the script `youtube_downloader.py`.
+2. Run the script `YoutubeScraping.py`.
 
 3. A GUI window will appear where you can paste the YouTube video URL and click the "DOWNLOAD" button. The video will be downloaded and saved to your default download location.
 
@@ -28,7 +28,7 @@ The weather update script provides current weather information for a given locat
    pip install requests
    ```
 
-2. Run the script `weather_update.py`.
+2. Run the script `WeatherUpdates.py`.
 
 3. The script will prompt you to enter the name of a city or location. After entering the location, the script will retrieve the current weather information, including temperature, humidity, wind speed, and weather conditions.
 
@@ -45,7 +45,7 @@ The Google searching script allows you to perform a Google search and retrieve t
    pip install requests
    ```
 
-2. Run the script `google_search.py`.
+2. Run the script `GoogleSearch.py`.
 
 3. The script will prompt you to enter the search query. After entering the query, the script will retrieve the top search results from Google and display the title and URL of each result.
 
